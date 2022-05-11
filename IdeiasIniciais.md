@@ -12,6 +12,8 @@
 
 -- Footer com uma asinatura(igual o portfolio) do desenvolvedor e com os Itens de navegacao.
 
+-- Conforme for scroll a pagiona home tem animações nos components(Rockeseat).
+
 ////////////////////////////////// Código //////////////////////////////////
 
 -- Routes - NavBar vai ser por Routes(nao teremos Scroll no site). Quando clicamos para ir a page de Applications a url usará uma '/Applications' e assim por diante.
